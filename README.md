@@ -1,16 +1,11 @@
-## Hi there 👋
+## Привет, меня зовут Валерия 👋
 
-<!--
-**ValeriaPleh/ValeriaPleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### О себе
+Junior аналитик данных с техническим образованием и инженерным бэкграундом.
+Имею опыт аналитической и расчетной работы, анализа параметров и выбора оптимальных решений.
+Рассматриваю позиции Junior/Trainee Data Analyst или SQL Analyst.
+### Навыки
+**SQL:** SELECT, WHERE, GROUP BY, HAVING, JOIN, подзапросы, оконные функции;
+**Python:** pandas, numpy, Matplotlib (EDA, очистка и базовый анализ данных);
+**Tools:** SQLite, MySQL, Jupyter Notebook, Excel, Mathcad, Matlab.
+### Дополнительное обучение

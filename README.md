@@ -10,7 +10,7 @@ Junior аналитик данных с техническим образова�
 **Tools:** SQLite, MySQL, Jupyter Notebook, Excel, Mathcad, Matlab.<br>
 ### Дополнительное обучение
 
-**Обучение SQL**
+**Обучение SQL**<br>
 [![Stepik SQL Certificate](certificates/stepik_certificate_sql.png)](certificates/stepik_certificate_sql.pdf) <br>
-**Обучение. Проект ШИФТ**
+**Обучение. Проект ШИФТ**<br>
 [![Shift Certificate](certificates/shift_certificate.png)](certificates/shift_certificate.pdf)
